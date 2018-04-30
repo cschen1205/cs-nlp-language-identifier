@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-nlp-language-identifier</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-nlp-language-identifier/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-nlp-language-identifier</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-nlp-language-identifier/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Language Identifier implemented in .NET 4.6.1 based on N-Gram Language Model</description>
+    <releaseNotes>Language Identifier implemented in .NET 4.6.1 based on N-Gram Language Model</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Language-Model, Language-Identifier, N-Gram, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
