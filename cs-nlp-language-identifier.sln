@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-nlp-language-identifier", "cs-nlp-language-identifier\cs-nlp-language-identifier.csproj", "{2486D294-020E-413D-81AC-5265C379F143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-nlp-language-identifier-samples", "cs-nlp-language-identifier-samples\cs-nlp-language-identifier-samples.csproj", "{4CCF7D3F-1A84-42E4-913B-C71D3DB50C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-nlp-language-identifier-unit", "cs-nlp-language-identifier-unit\cs-nlp-language-identifier-unit.csproj", "{812AB6B6-EDF8-48CF-8C02-9DB3C867ED78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2486D294-020E-413D-81AC-5265C379F143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2486D294-020E-413D-81AC-5265C379F143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2486D294-020E-413D-81AC-5265C379F143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2486D294-020E-413D-81AC-5265C379F143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCF7D3F-1A84-42E4-913B-C71D3DB50C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCF7D3F-1A84-42E4-913B-C71D3DB50C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCF7D3F-1A84-42E4-913B-C71D3DB50C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCF7D3F-1A84-42E4-913B-C71D3DB50C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812AB6B6-EDF8-48CF-8C02-9DB3C867ED78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812AB6B6-EDF8-48CF-8C02-9DB3C867ED78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812AB6B6-EDF8-48CF-8C02-9DB3C867ED78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812AB6B6-EDF8-48CF-8C02-9DB3C867ED78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
